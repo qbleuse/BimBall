@@ -59,7 +59,7 @@ There is a training room in the game we advise you to train in it before going i
 
 ## Additional Notes
 
-Some Files were too big to be on github so we removed them they are:
+Some files were too big to be on github so we removed them, they are:
 
 - The CROWD sound in the hub
 - The Built Data of the GOLD Map
