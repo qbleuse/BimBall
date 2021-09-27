@@ -59,4 +59,4 @@ There is a training room in the game we advise you to train in it before going i
 
 ## Additional Notes
 
-The built data of scenes were too big to be sent on github so we delete them
+The built data of scenes were too big to be sent on github so we deleted them
